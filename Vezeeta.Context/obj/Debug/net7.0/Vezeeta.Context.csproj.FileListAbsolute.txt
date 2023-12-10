@@ -1,0 +1,17 @@
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Context.deps.json
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Context.runtimeconfig.json
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Context.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Context.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Domain.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\bin\Debug\net7.0\Vezeeta.Domain.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.csproj.AssemblyReference.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.AssemblyInfoInputs.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.AssemblyInfo.cs
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.csproj.CoreCompileInputs.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.csproj.CopyComplete
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\refint\Vezeeta.Context.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\Vezeeta.Context.genruntimeconfig.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Context\obj\Debug\net7.0\ref\Vezeeta.Context.dll

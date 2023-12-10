@@ -1,0 +1,15 @@
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\bin\Debug\net7.0\Vezeeta.Dto.deps.json
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\bin\Debug\net7.0\Vezeeta.Dto.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\bin\Debug\net7.0\Vezeeta.Dto.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.AssemblyInfoInputs.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.AssemblyInfo.cs
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.csproj.CoreCompileInputs.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\refint\Vezeeta.Dto.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\ref\Vezeeta.Dto.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\bin\Debug\net7.0\Vezeeta.Domain.dll
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\bin\Debug\net7.0\Vezeeta.Domain.pdb
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.csproj.AssemblyReference.cache
+E:\Algoriza\07.RepositoryPattern\Vezeeta.Domain\Vezeeta.Dto\obj\Debug\net7.0\Vezeeta.Dto.csproj.CopyComplete
